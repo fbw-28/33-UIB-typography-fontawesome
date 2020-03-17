@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two&display=swap');
+
+.nav-item, .media-links {
+    list-style: none;
+}
+
+
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(141, 141, 141);
+}
+
+/* icon colors */
+.fab,
+.far {
+    color: rgb(75, 138, 255);        
+}
+
+.fas,
+.far {
+    color: rgb(216, 86, 156);   
+    font-size: 26px;     
+}
+
+
+.review {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 7px 5px;
+    color: rgb(75, 138, 255);
+    font-family: 'Lobster Two', cursive;
+}
+
