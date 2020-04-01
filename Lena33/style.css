@@ -1,0 +1,21 @@
+
+.nav-item, .media-links {
+    list-style: none;
+}
+
+header {
+    text-align: center;
+}
+h1 {
+    display: inline;
+    text-decoration: underline;
+}
+
+.review {
+    text-shadow: 2px 2px 1px rgb(117, 184, 117);
+    text-transform: uppercase;
+}
+
+footer {
+    text-align: center;
+}
