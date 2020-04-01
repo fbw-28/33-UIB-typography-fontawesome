@@ -1,0 +1,17 @@
+
+.nav-item, .media-links {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.review {
+    text-align: center;
+}
+
+.media-links h4 {
+    text-align: center;
+}
