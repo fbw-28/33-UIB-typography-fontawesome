@@ -1,0 +1,20 @@
+
+.nav-item, .media-links {
+    list-style: none;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+p i {
+    font-size: 25px;
+    color: rgb(0, 255, 0);
+}
+h1 i {
+    font-size: 25px;
+    color: rgb(225, 0, 255);
+}
+h4 i {
+    font-size: 25px;
+    color: rgb(25, 0, 255);
+}
